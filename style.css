@@ -1,0 +1,15 @@
+body {
+  background-color: #e0e0ff;
+  color: #000000;
+  font-family: Georgia, Times, serif;
+}
+
+div#contents {
+  margin: 4ex;
+}
+
+div#footer {
+  font-size: smaller;
+  margin: 1ex;
+  padding-top: 2ex;
+  text-align: right;
